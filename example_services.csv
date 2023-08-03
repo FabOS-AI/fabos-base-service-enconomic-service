@@ -1,0 +1,4 @@
+,Name,Hersteller,Funktion,Name_index,Hersteller_index,Funktion_index,Name_onehot,Hersteller_onehot,Funktion_onehot,features,prediction
+0,Safety Tracker,Fraunhofer IPA,Ueberwachung,2.0,2.0,11.0,"(9999,[2],[2.0])","(2,[],[])","(1362,[11],[2.0])","(11363,[2,10012],[2.0,2.0])",13
+1,Digital Manual,SOP,"Kommunikation, Assistenz",0.0,0.0,1255.0,"(9999,[0],[2.0])","(2,[0],[1.0])","(1362,[1255],[2.0])","(11363,[0,9999,11256],[2.0,1.0,2.0])",0
+2,Movement Optimization,HAW,"Optimierung, Analyse",1.0,1.0,1302.0,"(9999,[1],[2.0])","(2,[1],[1.0])","(1362,[1302],[2.0])","(11363,[1,10000,11303],[2.0,1.0,2.0])",0

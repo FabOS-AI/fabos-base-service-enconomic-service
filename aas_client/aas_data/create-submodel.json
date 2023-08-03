@@ -1,0 +1,39 @@
+{
+  "semanticId": {
+    "keys": []
+  },
+  "qualifiers": [],
+  "hasDataSpecification": [],
+  "identification": {
+    "idType": "IRI",
+    "id": "https://example.com/ids/sm/1551_1242_1032_4027"
+  },
+  "administration": null,
+  "idShort": "MySubmodel",
+  "category": null,
+  "modelType": {
+    "name": "Submodel"
+  },
+  "kind": "Instance",
+  "submodelElements": [
+    {
+      "value": "4.0",
+      "valueId": null,
+      "semanticId": {
+        "keys": []
+      },
+      "constraints": [],
+      "hasDataSpecification": [],
+      "idShort": "MyProperty",
+      "category": "VARIABLE",
+      "modelType": {
+        "name": "Property"
+      },
+      "valueType": "string",
+      
+      "kind": "Instance",
+      "descriptions": null
+    }
+  ],
+  "descriptions": null
+}
