@@ -1,0 +1,4 @@
+
+aas:
+  host: http://localhost:8081/aasServer/shells
+

@@ -1,0 +1,66 @@
+{
+    "semanticId": {
+      "keys": []
+    },
+    "qualifiers": null,
+    "hasDataSpecification": null,
+    "identification": {
+      "idType": "IRI",
+      "id": "https://example.com/ids/sm/1551_1242_1032_4027"
+    },
+    "administration": null,
+    "idShort": "MySubmodel",
+    "category": null,
+    "modelType": {
+      "name": "Submodel"
+    },
+    "kind": "Instance",
+    "submodelElements": [
+      {
+        "value": "3",
+        "valueId": null,
+        "semanticId": {
+          "keys": []
+        },
+        "constraints": null,
+        "hasDataSpecification": null,
+        "idShort": "MyProperty",
+        "category": null,
+        "modelType": {
+          "name": "Property"
+        },
+        "valueType": {
+          "dataObjectType": {
+            "name": "int"
+          }
+        },
+        "kind": "Instance",
+        "descriptions": null
+      }
+    ],
+    "descriptions": null
+  }
+
+  
+  {
+    "identification": {
+        "idType": "Custom",
+        "id": "ipa.fabos.submodel.endpoints"
+    },
+    "idShort": "endpointsSm",
+    "kind": "Instance",
+    "modelType": {
+        "name": "Submodel"
+    },
+    "submodelElements": [
+        {
+            "modelType": {
+                "name": "Property"
+            },
+            "idShort": "websocketEndpoint",
+            "value": "???",
+            "kind": "Instance",
+            "valueType": "string"
+        }
+    ]
+}

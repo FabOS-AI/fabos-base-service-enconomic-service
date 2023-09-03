@@ -1,0 +1,8 @@
+aas:
+  source: xml
+  host: http://localhost:8081/aasServer/shells
+  publish_endpoint: ws://${websocket.host}:${websocket.port}
+
+websocket:
+  host: localhost
+  port: 8765
